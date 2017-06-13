@@ -1,0 +1,7 @@
+spec
+src
+appveyor.yml
+.travis.yml
+.npmignore
+.babelrc
+.eslintrc
